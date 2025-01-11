@@ -106,10 +106,10 @@ header nav ul li a {
 
 .service-item {
     width: 23%;
-    background: #f9f9f9;
+    /* background: #f9f9f9; */
     padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    /* border-radius: 5px; */
+    /* box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); */
     margin: 10px;
     text-align: left;
 }
@@ -175,7 +175,6 @@ footer p {
     header h1 {
         font-size: 1.8rem;
     }
-    
 
     header nav ul {
         flex-direction: column;
